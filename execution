@@ -1,0 +1,6 @@
+node -v
+npm -v
+mkdir my-node-app
+cd my-node-app
+npm init -y
+node server.js
